@@ -30,6 +30,9 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true  
   - pymdownx.arithmatex:
       generic: true
   - footnotes
@@ -51,4 +54,4 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
 
 copyright: |
-  &copy; 2024 <a href="https://github.com/mr-bev" target="_blank" rel="noopener">Aaron Beverley</a>
+  &copy; 2024-5 <a href="https://github.com/mr-bev" target="_blank" rel="noopener">Aaron Beverley</a>
