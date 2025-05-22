@@ -1,4 +1,4 @@
-# Electronics - Arduino
+# Arduino
 
 ## Overview
 This section covers basic electronics topics such as circuits, components, and coding applications.
