@@ -27,6 +27,6 @@ To build and decorate a box to house electronics and program a micro-controller 
 ### Per Student
 | Item | Description |
 | --- | --- |
-| Pine Wood | 1 piece,  |
-| Pine Wood | 1 piece,  |
-| 3mm Plywood | 2 pieces,  |
+| Pine Wood | 1 piece, 650 x 68mm x 19mm for box |
+| Pine Wood | 1 piece, 120mm x 68mm x 19mm test piece to practice all techniques |
+| 3mm Plywood | 2 pieces, 180mm x 140mm |
